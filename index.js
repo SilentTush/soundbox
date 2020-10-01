@@ -41,6 +41,9 @@ function playSound(key){
         case "l" : var crash = new Audio ("sounds/tom-4.mp3"); 
                     crash.play();
                 break;
+         case "m" : var crash = new Audio ("sounds/kickwoosh.mp3"); 
+                    crash.play();
+                break;
     }
 }
 
