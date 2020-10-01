@@ -28,12 +28,17 @@ footer {
 background-image: url("images/kick.png");
 }
 
+
 .s {
 background-image: url("images/snare.png");
 }
 
 .d {
 background-image: url("images/tom1.png");
+}
+
+.m {
+background-image: url("images/kick.png");
 }
 
 .j {
